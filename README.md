@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmanrubillos
-- 👀 I’m interested in coding I think
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 
 
